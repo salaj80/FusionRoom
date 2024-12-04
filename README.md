@@ -2,9 +2,13 @@ Fusion Room is a modern video conferencing solution built with Next.js, designed
 
 Features:
 	Real-time video & audio conferencing: Host or join video calls with multiple participants.
-	Screen sharing: Share your screen effortlessly to collaborate on presentations, documents, or applications.
+
+ 	Screen sharing: Share your screen effortlessly to collaborate on presentations, documents, or applications.
+  	
 	Text chat: Communicate through text during your meetings for added context or file sharing.
+ 	
 	Secure & private: Built with security in mind to ensure encrypted video sessions.
+
 	Cross-platform support: Works seamlessly across desktop and mobile devices.
 
 ## Getting Started
